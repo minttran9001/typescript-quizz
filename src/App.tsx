@@ -47,7 +47,7 @@ const App = () => {
       difficulty,
       categoryId
     );
-    setTimer(5000);
+    setTimer(50000);
     setScore(0);
     setQuestions(newQuestions);
     setNumber(0);
